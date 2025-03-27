@@ -2,6 +2,8 @@
 
 A modern and feature-rich dashboard application built with React and Syncfusion components. This application provides a comprehensive admin dashboard with various features including charts, kanban board, calendar, and data grid components.
 
+🔗 **Live Demo**: [https://shoppydashboardr.netlify.app/](https://shoppydashboardr.netlify.app/)
+
 ## Features
 
 - 📊 Interactive Charts and Graphs
